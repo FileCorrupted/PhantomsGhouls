@@ -2,17 +2,17 @@
 # =============== #
 # Unity generated #
 # =============== #
-PhantomsAndGhouls/Temp/
-PhantomsAndGhouls/Library/
-PhantomsAndGhouls/Temp/**/*
-PhantomsAndGhouls/Library/**/*
+PhantomsGhouls/Temp/
+PhantomsGhouls/Library/
+PhantomsGhouls/Temp/**/*
+PhantomsGhouls/Library/**/*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
 ExportedObj/
-obj/
-obj/**/*
+PhantomsGhouls/obj/
+PhantomsGhouls/obj/**/*
 *.svd
 *.userprefs
 /*.csproj
