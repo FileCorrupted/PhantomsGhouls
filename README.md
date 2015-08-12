@@ -4,7 +4,7 @@ A Unity3D game inspired by Ghosts and Goblins
 #To Do
 
 ##Scripting
-- [ ] Player Controller
+- [x] Player Controller
 - [ ] Combat
 - [ ] Health Systems
 - [ ] Enemy AI
